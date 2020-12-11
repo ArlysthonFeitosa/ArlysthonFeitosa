@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Arlysthon Feitosa 👋
 
-<!--
-**ArlysthonFeitosa/ArlysthonFeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal Information
 
-Here are some ideas to get you started:
+  * 🧑 16 years old
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * 🚩 Living in Fortaleza, Brazil
+
+  * 💭 Planning to work/study abroad
+
+  * 📚 self-taught
+
+
+### Profissional Information
+
+  * 🌟 Computer Networks Technician
+
+  * 🎯 Focusing on Android Development (Kotlin)
+
+  * 📅 Studying development since 2018
