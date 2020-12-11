@@ -17,4 +17,4 @@
 
   * 🎯 Focusing on Android Development (Kotlin)
 
-  * 📅 Studying development since 2018
+  * 📅 Studying development since 2019
