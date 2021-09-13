@@ -2,7 +2,7 @@
 
 ### Personal Information
 
-  * 🧑 16 years old
+  * 🧑 17 years old
 
   * 🚩 Living in Fortaleza, Brazil
 
