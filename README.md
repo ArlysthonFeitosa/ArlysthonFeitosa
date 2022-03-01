@@ -6,8 +6,6 @@
 
   * 🚩 Living in Fortaleza, Brazil
 
-  * 💭 Planning to work/study abroad
-
   * 📚 self-taught
 
 
