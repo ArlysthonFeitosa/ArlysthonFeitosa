@@ -15,7 +15,7 @@
 
   * 🌟 Computer Networks Technician
 
-  * 🎯 Focusing on Android Development (Kotlin)
+  * 🎯 Focusing on Flutter
 
   * 📅 Studying development since 2019
 
