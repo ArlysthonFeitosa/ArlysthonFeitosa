@@ -15,7 +15,7 @@
  
   * 🖥️ Coursing Internet Systems at Descomplica 
 
-  * 🎯 Focusing on Flutter
+  * 🎯 Focusing on Flutter and NodeJS
 
   * 📅 Studying development since 2019
 
